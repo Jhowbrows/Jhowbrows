@@ -1,4 +1,4 @@
-## Olá Sou Jhonatan e amo ser Dev
+## Olá Meu nome é Jhonatan e sou Dev
 
  <div>
    <a href="https://github.com/Jhowbrows">
